@@ -1,0 +1,6 @@
+* Add question form
+* Add comment
+* Vote up and down
+* Ups and Downs should be arrays with interactor's id inside the post
+* Add delete button
+* Add expand post button
