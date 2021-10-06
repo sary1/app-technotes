@@ -10,7 +10,7 @@ All users can:
 * Filter notes by category.
 * Filter notes by author.
 * Check time of notes.
-* Use login via Google.
+* Login via Google.
 
 Only authenticated users can:
 * Add new notes.
